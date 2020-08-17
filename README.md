@@ -34,10 +34,10 @@ python manage.py runserver
 [courses/1](https://private-f4a7a-coursesapi3.apiary-mock.com/courses/1)
 
 ### Running the tests
-> There are no tests yet.
+> manage.py test
 
 ### Deployment
-> It doesn't deployed yet
+> [deploy](https://hp-228.herokuapp.com)
 
 ### Built With
 - Django - framework for build web application
